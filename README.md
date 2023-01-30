@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=15&height=200&section=header&text=Hello,%20World!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=15,17,18&height=200&section=header&text=Hello,%20World!&fontSize=50)
 
 <!--
 **rigyeonghong/rigyeonghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
