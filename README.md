@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=20&height=250&section=header&text=Hello,%20rigyeong's github!👋🏻&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=25&height=250&section=header&text=Hello,%20rigyeong's github!👋🏻&fontSize=60)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rigyeonghong&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/rigyeonghong/github-readme-stats)
 [![Solved.ac
