@@ -4,6 +4,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdflrud)](https://solved.ac/ghdflrud)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/rigyeonghong" width="1000" height="120"/>
+</a>
+
 <!--
 **rigyeonghong/rigyeonghong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
